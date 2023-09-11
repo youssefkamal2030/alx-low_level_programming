@@ -6,18 +6,19 @@
  *
  * Return: Always 0 (Success)
  */
-int main(void)
-{
- int i;
+#include <stdio.h>
 
-for ( i = 'a'; i <= 'z'; i++)
-{
-if ((char) i == 'p' || (char) i == 'q')
-continue;
-else
-putchar(i);
+int main() {
+    char letter = 'a'; 
+
+    while (letter <= 'z') {
+        if (letter != 'e' && letter != 'q') {
+            putchar(letter);
+        }
+   letter++;
+    }
+    putchar('\n');
+    return 0;
 }
-putchar('\n');
-return (0);
-}
+
 
