@@ -7,7 +7,17 @@
  *  Return: on success 1.
  *          on error , -1 is returned, and errno is set appropriately
  */
-char _putchar(char c)
+char print_alphabet(void);
+int main(void)
 {
-	return (write(1, &c, 1));
+    print_alphabet();
+    return (0);
+}
+char print_alphabet(void)
+{
+    int i;
+    for(i='a';i<='z';i++)
+        putchar(i);
+
+    putchar('\n');
 }
