@@ -7,10 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4dabcc3-f3d4-476b-971e-11900e6cd4bc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/0x02-functions_nested_loops.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/0x02-functions_nested_loops.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-print_alphabet_x10.c" beforeDir="false" afterPath="$PROJECT_DIR$/2-print_alphabet_x10.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-islower.c" beforeDir="false" afterPath="$PROJECT_DIR$/3-islower.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-isalpha.c" beforeDir="false" afterPath="$PROJECT_DIR$/4-isalpha.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="104-fibonacci.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="0x02-functions_nested_loops" TARGET_NAME="104-fibonacci.c" CONFIG_NAME="104-fibonacci.c">
+      <option name="sourceFile" value="104-fibonacci.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,6 +63,10 @@
       <option name="presentableId" value="Default" />
       <updated>1694630527283</updated>
       <workItem from="1694630533669" duration="3000" />
+      <workItem from="1694630553230" duration="258000" />
+      <workItem from="1694630815437" duration="13000" />
+      <workItem from="1694630830339" duration="11000" />
+      <workItem from="1694630843221" duration="10000" />
     </task>
     <servers />
   </component>
